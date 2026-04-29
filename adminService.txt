@@ -1,3 +1,5 @@
 Add and update and delete users from db.
 Manage the database.
 closing the connection.
+
+Terminating employee
